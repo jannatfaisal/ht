@@ -1,0 +1,20 @@
+*{
+    background-color: black;
+}
+
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    margin-top:10pc;
+    color:rgb(58, 168, 31);
+
+}
+
+p{
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+    color:rgb(30, 167, 25);
+    font-weight: bolder;
+}
